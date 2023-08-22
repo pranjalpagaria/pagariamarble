@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pagariamarble/precache-manifest.f1ceb80b64cdafe90a9aa2f5957fbb0d.js"
+  "/pagariamarble/precache-manifest.1fd8b4388defae36c6474e430faa0405.js"
 );
 
 workbox.clientsClaim();

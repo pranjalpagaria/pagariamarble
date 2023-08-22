@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/pagariamarble/static/media/quartz6.d9b591ef.jpg"
   },
   {
-    "revision": "a3be3e0994b1d33049bced9a1e6eac64",
+    "revision": "d99935566084b9db25496243968f30db",
     "url": "/pagariamarble/index.html"
   }
 ];
