@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "97962287b715e09d54b1",
+    "revision": "76b56f498134c1334f30",
     "url": "/pagariamarble/static/css/main.b72ebce2.chunk.css"
   },
   {
-    "revision": "97962287b715e09d54b1",
-    "url": "/pagariamarble/static/js/main.b168a241.chunk.js"
+    "revision": "76b56f498134c1334f30",
+    "url": "/pagariamarble/static/js/main.3be822a2.chunk.js"
   },
   {
     "revision": "3d756b0f8c613be35de6",
     "url": "/pagariamarble/static/js/runtime~main.e95d8e14.js"
   },
   {
-    "revision": "2498e35610acf890bad1",
+    "revision": "d13696b0b3be51f2c4d9",
     "url": "/pagariamarble/static/css/2.c778775f.chunk.css"
   },
   {
-    "revision": "2498e35610acf890bad1",
-    "url": "/pagariamarble/static/js/2.dfaf1d26.chunk.js"
+    "revision": "d13696b0b3be51f2c4d9",
+    "url": "/pagariamarble/static/js/2.a1ec2b00.chunk.js"
   },
   {
     "revision": "0a78b2b425ce262d37b0",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/pagariamarble/static/media/quartz6.d9b591ef.jpg"
   },
   {
-    "revision": "d99935566084b9db25496243968f30db",
+    "revision": "eba2427837e17fe6cd4298bd4861b774",
     "url": "/pagariamarble/index.html"
   }
 ];
