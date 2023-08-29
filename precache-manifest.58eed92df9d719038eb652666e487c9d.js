@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "31e3b2d82e22aa6579a3",
-    "url": "/pagariamarble/static/css/main.545e2ac7.chunk.css"
+    "revision": "7f80c1437e38b6f0fba6",
+    "url": "/pagariamarble/static/css/main.763fd766.chunk.css"
   },
   {
-    "revision": "31e3b2d82e22aa6579a3",
+    "revision": "7f80c1437e38b6f0fba6",
     "url": "/pagariamarble/static/js/main.3be822a2.chunk.js"
   },
   {
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/pagariamarble/static/media/quartz6.d9b591ef.jpg"
   },
   {
-    "revision": "0efd00d7c12d3abcc202ab1f47de0461",
+    "revision": "80d29a4d0f84a8319e2e962815ca7fc3",
     "url": "/pagariamarble/index.html"
   }
 ];
